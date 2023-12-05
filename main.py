@@ -1,9 +1,13 @@
 import Szamitogep
 import elsof
+import f2
 import hetedik
 import masodik
 import harmadik
 import negyedik
+import nyolcadik
+import tizenkettets
+import Csoport
 
 """
 szg1 = Szamitogep.Szamitogep(0, False)
@@ -31,4 +35,12 @@ print(szg2)
 #masodik.masodik()
 #harmadik.harmadik()
 #negyedik.negyedik()
-hetedik.hetedik()
+#hetedik.hetedik()
+#nyolcadik.nyolc()
+#tizenkettets.tk()
+#f1.Osztalybeir()
+#f1.kiir()
+#f2.fMasodik()
+
+adatokListaja=[]
+def
